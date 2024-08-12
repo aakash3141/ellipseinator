@@ -1,5 +1,5 @@
 # Ellipse-inator v1
-I'm sure you've all seen that website where you can test if you can draw a perfect circle (https://neal.fun/perfect-circle)
+I'm sure you've all seen that website where you can test if you can draw a perfect circle (https://neal.fun/perfect-circle)\n
 Well, it turns out I can't draw a very good circle... so I made an app to do it for me!
 
 Features:
