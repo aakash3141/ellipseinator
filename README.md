@@ -13,13 +13,13 @@ Well, it turns out I can't draw a very good circle... so I made an app to do it 
 - Needs .NET Framework 2.0+ to run
 - Needs Windows 2000+ to run
 
-###Images
+### Images
 ![image](https://github.com/user-attachments/assets/10e3d36a-ac9c-4a0d-8036-d357f678a829)
 ![image](https://github.com/user-attachments/assets/5751b381-3fbd-4e96-b896-8de3cae1e64a)
 
-###Icon Attribution
+### Icon Attribution
 <a href="https://www.flaticon.com/free-icons/cursors" title="cursors icons">Cursors icons created by Freepik - Flaticon</a>
 
-###And finally...
+### And finally...
 Check out the development process on YouTube!
 Link: https://www.youtube.com/watch?v=vQOFj9Wc1r0
