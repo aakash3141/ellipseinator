@@ -21,5 +21,5 @@ Well, it turns out I can't draw a very good circle... so I made an app to do it 
 <a href="https://www.flaticon.com/free-icons/cursors" title="cursors icons">Cursors icons created by Freepik - Flaticon</a>
 
 ### And finally...
-Check out the development process on YouTube!
+Check out the development process on YouTube!<br>
 Link: https://www.youtube.com/watch?v=vQOFj9Wc1r0
